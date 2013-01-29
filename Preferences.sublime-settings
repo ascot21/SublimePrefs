@@ -1,7 +1,7 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
-	"font_face": "Consolas",
+	"font_face": "Droid Sans Mono",
 	"font_size": 14.0,
 	"ignored_packages":
 	[
